@@ -77,7 +77,11 @@ export function LoginForm({ onSubmit }: LoginFormProps) {
           </FieldGroup>
         </CardContent>
         <CardFooter className="flex-col gap-2">
-          <Button type="submit" className="w-full" disabled={form.formState.isSubmitting}>
+          <Button
+            type="submit"
+            className="w-full"
+            disabled={form.formState.isSubmitting}
+          >
             Sign in
           </Button>
         </CardFooter>
