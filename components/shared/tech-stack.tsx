@@ -19,7 +19,7 @@ const stack: StackItem[] = [
   { name: "Tailwind CSS", version: "4", detail: "v4 + Prettier class sorting" },
   { name: "shadcn/ui", version: "Base UI", detail: "components/ui" },
   { name: "Zustand", version: "5.0.15", detail: "global + feature stores" },
-  { name: "Prisma", version: "7.10.0", detail: "PostgreSQL + driver adapter" },
+  { name: "Framer Motion", version: "13.4.4", detail: "animated hero section" },
   {
     name: "React Hook Form",
     version: "7.89.0",
